@@ -1,9 +1,10 @@
 {
   "name": "react_native",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Conteúdo didático sobre React Native",
   "main": "index.js",
   "scripts": {
+    "release": "standard-version && cat CHANGELOG.md > README.md && git add . && git commit -m 'chore: update README.md &&' && git push",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
