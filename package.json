@@ -1,0 +1,24 @@
+{
+  "name": "react_native",
+  "version": "1.0.0",
+  "description": "Conteúdo didático sobre React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ondion/new_cycle.git"
+  },
+  "keywords": [
+    "react",
+    "reactNative",
+    "javascript"
+  ],
+  "author": "Fabio N. Xavier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ondion/new_cycle/issues"
+  },
+  "homepage": "https://github.com/Ondion/new_cycle#readme"
+}
