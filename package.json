@@ -24,8 +24,5 @@
   "homepage": "https://github.com/Ondion/new_cycle#readme",
   "devDependencies": {
     "standard-version": "^9.5.0"
-  },
-  "dependencies": {
-    "expo-cli": "^6.0.8"
   }
 }
