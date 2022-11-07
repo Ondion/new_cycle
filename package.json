@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Ondion/new_cycle/issues"
   },
-  "homepage": "https://github.com/Ondion/new_cycle#readme"
+  "homepage": "https://github.com/Ondion/new_cycle#readme",
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  }
 }
